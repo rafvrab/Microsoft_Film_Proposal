@@ -6,6 +6,9 @@
 .ipynb_checkpoints
 .DS_Store
 
+# Copy made for preserving older version
+ Notebook-Copy1.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
