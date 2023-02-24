@@ -22,37 +22,37 @@ The data we will use consists of databases and their tables, with information on
 
 # Exploratory Data Analysis
 
-<img src="tables_1.jpg" alt="Tables">
+<img src="Data/tables_1.jpg" alt="Tables">
 
 Here we dig into the data, open up the tables, present the data in tabular form, ask the relevant questions, produce visual graphs that help us see the information clearly, and answer our questions.
 
 25 movies that get the best rating.
 
-<img src="top_rating.jpg" alt="Top Rating">
+<img src="Data/top_rating.jpg" alt="Top Rating">
 
 Upon examination, those were not the most popular films, but those who did watch them like them best.  
 
 We ask their genre:
 
-<img src="documentary.jpg" alt="Documentary">
+<img src="Data/documentary.jpg" alt="Documentary">
 
 ... and how long these movies run for:
 
-<img src="doc_rt.jpg" alt="Movie Rating">
+<img src="Data/doc_rt.jpg" alt="Movie Rating">
 
 We'll put these finding on the back burner.  Let's ask what movies actually render the best overall net profit, called here "actual revenue":
 
 25 movies that produced the highest net revenue:
 
-<img src="act_rev.jpg" alt="Actual Profit Movies">
+<img src="Data/act_rev.jpg" alt="Actual Profit Movies">
 
 How genre types distributes among those movies:
 
-<img src="genre_dist.jpg" alt="Genre Distribution">
+<img src="Data/genre_dist.jpg" alt="Genre Distribution">
 
 Runtime for those films:
 
-<img src="runtime.jpg" alt="Runtime">
+<img src="Data/runtime.jpg" alt="Runtime">
 
 The above shows what films brought the greatest net profit in the past few decades.
 
