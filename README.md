@@ -22,37 +22,37 @@ The data we will use consists of databases and their tables, with information on
 
 # Exploratory Data Analysis
 
-![tables](.Data/tables_1.jpg)
+<img src="tables_1.jpg" alt="Tables">
 
 Here we dig into the data, open up the tables, present the data in tabular form, ask the relevant questions, produce visual graphs that help us see the information clearly, and answer our questions.
 
 25 movies that get the best rating.
 
-![top_rating](.Data/![top rating](.Data/top_rating.jpg)
+<img src="top_rating.jpg" alt="Top Rating">
 
 Upon examination, those were not the most popular films, but those who did watch them like them best.  
 
 We ask their genre:
 
-![documentary](.Data/![documentary](.Data/documentary.jpg)
+<img src="documentary.jpg" alt="Documentary">
 
 ... and how long these movies run for:
 
-![doc_rt](.Data/![documentary runtime](.Data/doc_rt.jpg)
+<img src="doc_rt.jpg" alt="Movie Rating">
 
 We'll put these finding on the back burner.  Let's ask what movies actually render the best overall net profit, called here "actual revenue":
 
 25 movies that produced the highest net revenue:
 
-![act_rev](.Data/![actual revenue](.Data/tables_1.jpg)
+<img src="act_rev.jpg" alt="Actual Profit Movies">
 
 How genre types distributes among those movies:
 
-![genre_dist](.Data/![genre distribution](.Data/genre_dist.jpg)
+<img src="genre_dist.jpg" alt="Genre Distribution">
 
 Runtime for those films:
 
-![runtime](.Data/![runtime](.Data/runtime.jpg)
+<img src="runtime.jpg" alt="Runtime">
 
 The above shows what films brought the greatest net profit in the past few decades.
 
@@ -91,9 +91,9 @@ After financial expectations have been met:
 
 See the full analysis in the [Jupyter Notebook](./Notebook.ipynb) or review this [presentation](./Notebook.pdf).
 
-For additional info, contact Rafael Rabinovich at [rafvrab@gmail.com](mailto:alison.peeblesmadigan@flatironschool.com)
+For additional info, contact Rafael Rabinovich at [rafvrab@gmail.com](mailto:rafvrab@gmail.com)
 
-![portrait](./Data/raf_port.jpg)
+![portrait](/Data/raf_port.jpg)
 
 ## Repository Structure
 
