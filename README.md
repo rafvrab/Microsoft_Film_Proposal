@@ -1,4 +1,4 @@
-![Microsoft Film Venture](./Data/project_banner.jpg)
+![Microsoft Film Venture](./images/project_banner.jpg)
 
 # Microsoft Film Venture
 
@@ -22,7 +22,7 @@ The data we will use consists of databases and their tables, with information on
 
 # Exploratory Data Analysis
 
-<img src="Data/tables_1.jpg" alt="Tables">
+<img src="images/tables_1.jpg" alt="Tables">
 
 Here we dig into the data, open up the tables, present the data in tabular form, ask the relevant questions, produce visual graphs that help us see the information clearly, and answer our questions.
 
@@ -34,25 +34,25 @@ Upon examination, those were not the most popular films, but those who did watch
 
 We ask their genre:
 
-<img src="Data/documentary.jpg" alt="Documentary">
+<img src="images/documentary.jpg" alt="Documentary">
 
 ... and how long these movies run for:
 
-<img src="Data/doc_rt.jpg" alt="Movie Rating">
+<img src="images/doc_rt.jpg" alt="Movie Rating">
 
 We'll put these finding on the back burner.  Let's ask what movies actually render the best overall net profit, called here "actual revenue":
 
 25 movies that produced the highest net revenue:
 
-<img src="Data/act_rev.jpg" alt="Actual Profit Movies">
+<img src="images/act_rev.jpg" alt="Actual Profit Movies">
 
 How genre types distributes among those movies:
 
-<img src="Data/genre_dist.jpg" alt="Genre Distribution">
+<img src="images/genre_dist.jpg" alt="Genre Distribution">
 
 Runtime for those films:
 
-<img src="Data/runtime.jpg" alt="Runtime">
+<img src="images/runtime.jpg" alt="Runtime">
 
 The above shows what films brought the greatest net profit in the past few decades.
 
@@ -93,7 +93,7 @@ See the full analysis in the [Jupyter Notebook](./Notebook.ipynb) or review this
 
 For additional info, contact Rafael Rabinovich at [rafvrab@gmail.com](mailto:rafvrab@gmail.com)
 
-![portrait](/Data/raf_port.jpg)
+![portrait](/images/raf_port.jpg)
 
 ## Repository Structure
 
