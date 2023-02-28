@@ -12,7 +12,7 @@ I will use my data analysis expertise and knowledge of the business environment 
 # Business Problem
 
 <div style="float: left; margin-right: 10px;">
-    <img src="Data/movieindustry.jpg" alt="Movie Industry" style="max-height: 1in; max-width: 100%; vertical-align: center;">
+    <img src="images/movieindustry.jpg" alt="Movie Industry" style="max-height: 1in; max-width: 100%; vertical-align: center;">
 </div>
 <p>The problem I need to resolve is to use data analysis to identify the key factors driving success in the film industry and use this information to make data-driven recommendations for Microsoft's potential investment in the field.</p>
 
@@ -28,7 +28,7 @@ Here we dig into the data, open up the tables, present the data in tabular form,
 
 25 movies that get the best rating.
 
-<img src="Data/top_rating.jpg" alt="Top Rating">
+<img src="images/top_rating.jpg" alt="Top Rating">
 
 Upon examination, those were not the most popular films, but those who did watch them like them best.  
 
