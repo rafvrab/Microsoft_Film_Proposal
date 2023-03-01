@@ -96,8 +96,11 @@ For additional info, contact Rafael Rabinovich at [rafvrab@gmail.com](mailto:raf
 ## Repository Structure
 
 ```
-├── Data
+├── images
+├── .gitignore
 ├── README.md
 ├── Microsoft_Film_Venture.pdf
+├── Microsoft Film SlideShow.pdf
+├── Microsoft Film SlideShow.pptx
 └── Microsoft_Film_Venture.ipynb
 ```
